@@ -1,3 +1,11 @@
+# The Most Important Part Of This README
+
+This is a fork of the public golang Migrate image. This is because that public one is sparcely maintained and keeps having vulnerabilities, so we just bumped some versions in this.
+This isn't a great long-term approach, feel free to change it. Just FYI.
+
+
+
+
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/golang-migrate/migrate/ci.yaml?branch=master)](https://github.com/golang-migrate/migrate/actions/workflows/ci.yaml?query=branch%3Amaster)
 [![GoDoc](https://pkg.go.dev/badge/github.com/golang-migrate/migrate)](https://pkg.go.dev/github.com/golang-migrate/migrate/v4)
 [![Coverage Status](https://img.shields.io/coveralls/github/golang-migrate/migrate/master.svg)](https://coveralls.io/github/golang-migrate/migrate?branch=master)
